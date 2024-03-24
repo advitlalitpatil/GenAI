@@ -1,0 +1,12 @@
+Entity,Value
+Issuer Name, Sempra
+Issuer Employer Identification Number (EIN), 33-0732627
+City, San Diego
+State, CA
+Post Office, 92101-7123
+Question 1," Describe the organizational action and, if applicable, the date of the action or the date against which shareholders' ownership is measured for the action"
+Answer," On August 3, 2023, Sempra announced a 2-for-1 common stock split. The record date for the stock split was August 14, 2023, and the new shares were distributed after the close of trading on August 21, 2023."
+Question 2, Describe the quantitative effect of the organizational action on the basis of the security in the hands of a U.S. taxpayer as an adjustment per share or as a percentage of old basis
+Answer," According to Internal Revenue Code Section 307(a), each shareholder is required to allocate the aggregate tax basis in their shares held immediately prior to the stock split among the shares held immediately after the stock split. The stock split will decrease the basis of each share of stock issued and outstanding before the split (""Old Shares"") by one-half, or 50%. The new per share basis is computed by dividing the Old Share basis of each share by two, with 50% allocated to the newly issued share and 50% remaining with the Old Share."
+Question 3," Describe the calculation of the change in basis and the data that supports the calculation, such as the market values of securities and the valuation dates"
+Answer," The 2-for-1 stock split does not change the aggregate basis of the shares held by the shareholder, it merely allocates the Old Share basis equally between the Old Share and the newly issued share. The calculation of the change in basis is done by dividing the Old Share basis of each share by two. The example provided in the document shows that before the stock split, a stockholder holds 100 shares of common stock with a basis of $10 per share, resulting in a total basis of $1,000. After the stock split, the stockholder holds 200 shares of common stock with a basis of $5 per share, resulting in a total basis of $1,000."

@@ -1,0 +1,180 @@
+Ajay Purekar
+Senior Solution Architect
++91-982-211-8423 ajay_purekar@yahoo.com
+SUMMARY
+Experienced Architect for technology solutions.
+Java J2EE IP, IP Product architecture, development.
+Legacy to distributed Java platform modernization Solution
+Architecting specialized.
+Mainframe Legacy modernization in Java, COBOL to Java
+migration and Legacy modernization proficiency. Aligning IT
+solutions with business objectives.
+WORK EXPERIENCE
+Solution Architect
+Atos Syntel
+Jan 2018 - Ongoing
+Atos Syntel is a global IT services and solutions provider across
+various industries.
+- Working on multiple modernization transformation across domains
+- Creating various accelerators, IP for modernization using Java,
+j2EE technology stack and configuring, deploying using DevOps
+- Governing & analysis of software designs to ensure technical
+compliance and propose architectural improvements.
+- Implementing, planning, executing, and delivering digital
+modernization project solution to client for their portfolio with AWS
+Integration, AngularJS, and UI frameworks
+- Designed, architected patented IP tools for digital modernization
+----------------------------------------------------------------
+Technical Architect
+Bristlecone India Ltd
+Jun 2013 – Jan 2018
+Bristlecone is provider of specialized digital transformation
+services. Bristlecone is Gartner ranked supply chain services
+provider also.
+- Implemented the architecture for backend (Java/Spring) web-
+based applications with AngularJS
+- Project status report presentation for operations, performance to
+management & client stakeholders
+- Supervised development teams ensuring 100% error-free code as
+well as on-time delivery
+- Active participation in defining the quality processes. Created
+various technical, non-technical documentation for new process
+flow
+--------------------------------------------------------------
+Senior Product Engineer
+ACI Worldwide
+Oct 2011 – Apr 2013
+ACI Worldwide is banking payment system product company, for
+banking, financial institutions, retailers, and billers.
+- Product customisation, design, and development for banking
+products for customer.
+- Contributed through Architect group for solutioning of product
+integration API
+- Product core framework enhancement and integration.
+- Created Technical design, integration documents.
+- Active participation in defining the quality processes.
+--------------------------------------------------------------
+linkedin.com/in/ajay-purekar
+SKILLS & TECHNOLOGIES
+- Java J2EE Software Architecture
+- Java/J2EE Application Design,
+Development, Deployment, Integration
+- COBOL To Java Modernization
+- Mainframe to Java Modernization
+- Spring, Spring Batch, Hibernate,
+Java-based Frameworks
+- Application Integration
+- Microservices based solutions, Web
+Services
+- Web frameworks, Web Portal, HTML
+CSS, JavaScript, AngularJS
+- IP product development
+- AI enabled IP
+- MS SQL Oracle, Db2, MySQL
+- DevOps, AWS integration
+- AngularJS, Flex UI
+- Software Development, Design, planning
+Program /Project management,
+Collaboration,
+- Scrum, Agile Methodologies
+- TOGAF Methodologies
+- Quality process, Testing, Reporting tools
+- Cloud integration
+- Portal development, Flex, ActionScript
+STRENGTHS
+Communicative
+Open-minded, patient, and
+empathetic.
+Business Problem Solution
+Practical about solving unexpected
+issues with rational solution.
+Acceptable
+Flexible, easily adapt the change and
+new situations.
+Keen learner
+Fuelled by curiosity and passion to
+move forward. Learns quickly and
+effectively with self-motivation.
+CERTIFICATION
+ CSM® Certified Scrum Master®
+ SSYB - Six Sigma Yellow Belt
+ TOGAF® 9
+ AWS Certified Solutions Architect -
+Associate
+
+Senior Project Leader
+L&T InfoTech Limited
+Client location - Hartford CT, USA
+Sep 2005 — Oct 2011
+LTI is a global technology consulting and digital solutions L&T
+Group Company operation in 33 countries
+- Worked at Client Site Hartford CT, USA
+- Designed developed and project planning for Insurance solutions
+- Contributed for development, estimation of core framework for
+modules using Java/J2EE, Flex and spring framework PATENT & INVENTION
+- Redesigned existing project & database structure to remove
+redundancy & included references resulting into better - USS. Patent # 11,016,740
+performance (For application modernization)
+- Web Sphere Portal solution built, integrated with Org platform PP
+EEE EEE EEE EE Artificial Intelligent based
+Software Engineer virtual programmer which helps for
+Avesta Computers various modernization phases
+May 2004 — Sep 2005
+Avesta is IT service provider for high-performance technology
+services to customers
+- Part of development team to develop front end screens and
+backend Java services
+- Business components & persistent components based on OMNI ACHIEVEMENTS
+framework implemented
+- Prepared business, service layer Java/J2ee components using » CEO recognition award for
+PanDOORA (Pattern Driven Object Oriented Reference contribution to critical modernization
+Architecture) framework project
+anon no-no $2 $$ 22-2 $22 $$ $$ 2+ = $= $= == === --------- = Best recognition for Agile value
+Software Engineer showcase In client project
+Harjai Computers Pvt Ltd . oury-Sanman award for best
+Client location-Cap Gemini Ernst & Young Consulting = Best Achiever for significant
+Oct 2003 - May 2004 contribution to Portal Initiative
+Harjai Computers is IT recruitment company provides complete IT
+staffing solutions
+- Involved in the development of front end and business logic
+implementation
+- Supply chain solutions development done for customer
+- Involved in Unit testing and System testing
+Software Engineer
+Alphonso Informex Pvt. Ltd
+Jan 2001 — Oct 2003
+Alphonso Informex is in the consulting leading businesses in the
+Placement/HR/Training Consultants
+- Created front end components and the service layer business logic
+components
+- Developed integration components for web applications modules of
+supply chain solution product
+Support Engineer
+Abex Data System Pvt. Ltd
+Aug1999 — Dec 2000
+Abex Data System is service provider for IT product for the various
+products for IT operations
+- Configured and administered Windows Servers & Workstation
+- Responsible for support of Networks & Peripherals Linux Server
+VISA HISTORY
+Visa Type Visa Expiry Date
+U.S. L1 96064866 11May201 1
+UK Work Permit 005537910 31Mar2008
+Danish C Schengen Multi DK1228327 31Aug2007
+EDUCATION
+Graduation/ + pegs , ,
+U-Graduation Specialization | College Name University Name
+, College of Dnyaneshwar
+‘Bachelor of Engineering) rectronics Hi-Tech Engineering, Pune | Vidyapeeth, Pune India
+g g g g Maharashtra India (Private University)
+
+D.E.E. Electrical Govt. College of Bombay
+(Diploma in Enaineerin Engineering, Jalgaon, Technical Education Board,
+Electrical Engineering) g g Maharashtra India Maharashtra India
+PERSONAL DETAILS
+Date of birth - 10 May 1976
+Marital status - Married.
+Gender - Male
+Nationality - Indian
+US Social Security Number (SSN) - Ox0-1x-x00x
+Passport No - P4408524

@@ -1,0 +1,28 @@
+coum GO d Report of Organizational Actions
+(December 2011) Affecting Basis of Securities OMB No. 1545-2224
+Department of the Treasury . .
+Internal Revenue Service > See separate instructions.
+‘lag Reporting Issuer
+1 Issuer's name 2 Issuer's employer identification number (EIN)
+Microchip Technology Incorporated 86-0629024
+3 Name of contact for additional information | 4 Telephone No. of contact 5 Email address of contact
+Gary W. McDaniel 480-792-7200 gary.mcdaniel@microchip.com
+6 Number and street (or P.O. box if mail is not delivered to street address) of contact 7 City, town, or post office, state, and Zip code of contact
+2355 W. Chandler Bivd. Chandler, AZ 85224
+8 Date of action 9 Classification and description
+2023 Conversion Rate Adjustment on Convertible Debt
+10 CUSIP number 11 Serial number(s) 12 Ticker symbol 13 Account number(s)
+See Attached MCHP
+~lagim Organizational Action Attach additional statements if needed. See back of form for additional questions.
+14 Describe the organizational action and, if applicable, the date of the action or the date against which shareholders' ownership is measured for
+the action Microchip Technology incorporated made a conversion rate adjustment for its convertible debt holders
+which resulted in a deemed distribution to its convertible debt holders.
+See attached schedule for dates when conversion rate adjustments occurred.
+15 Describe the quantitative effect of the organizational action on the basis of the security in the hands of a U.S. taxpayer as an adjustment per
+share or as a percentage of old basis P 100% of the distribution described above will be treated as a taxable dividend under
+IRC Sections 301(c) and Section 305(c).
+16 Describe the calculation of the change in basis and the data that supports the calculation, such as the market values of securities and the
+valuation dates P as described above, Microchip Tecnology Incorporated has determined that of such distributions described above,
+100% will be treated as a taxable dividend under Section 301(c) and Section 305(c).
+See attached schedule for value attributed to each conversion rate adjustment.
+For Paperwork Reduction Act Notice, see the separate Instructions. Cat. No. 37752P Form 8937 (12-2011)

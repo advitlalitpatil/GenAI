@@ -1,0 +1,45 @@
+Entity, Value
+Language, English
+Document Type, Personal Health Record
+Extracted Fields,
+- First Name, Martha
+- Last Name, Steel
+- Preferred Name, Martha
+- Patent Identifier, ABG123
+- Gender, F
+- Date of Birth, 10/13/2021
+- Blood Type, O-
+- Last Updated Date, 01/19/2023
+- Address," 123 Sample Street, Sample City, AZ 12345"
+- Emergency Contact 1,
+  - Full Name, Janet Stee
+  - Relationship, Mother
+  - Contact Number, 65-6558
+- Emergency Contact 2,
+  - Full Name, Susan Stoo
+  - Relationship, Sister
+  - Contact Number, 55-6555
+- Insurance Information,
+  - Insurance Carrier, At insurers
+  - Insurance Plan, Comprehensive Plan
+  - Contact Number, 555-5555
+  - Policy Number, 123485
+  - Group Number, ns 235
+  - Social Security Number, 8789
+- Physician Information 1,
+  - Name, Family Doctor
+  - Designation/Speciatty, 555-5555
+  - Phone, Family Doctors
+  - Address, 26 Sample Terrace
+- Physician Information 2,
+  - Name, Dr. Ella Lee
+  - Designation/Speciatty, Endocrinologist
+  - Phone, 555-5555
+  - Address, 123 Sample Road
+- Physician Information 3,
+  - Name, Ms. Lena Yip
+  - Designation/Speciatty, ENT surgeon
+  - Phone, 555-5555
+  - Address, Lena performed my thyroidectomy in 2021
+- Known Medical Condition(s), Grave's disease- treated with thyroidectomy in 2021 and managed with levothyroxine
+- Allergies, Penicillin

@@ -1,0 +1,9 @@
+"genformer" "passport" "passport.tiff"
+"genformer" "pan" "passport.tiff"
+"genformer" "invoice" "passport.tiff"
+"genformer" "bill_of_lading" "passport.tiff"
+"genformer" "packaging" "passport.tiff"
+"genformer" "bill_of_exchange" "passport.tiff"
+
+"genformer" "all_in_one" "income_statement_sample.pdf"
+"genformer" "all_in_one" "balance_sheet_sample.pdf"

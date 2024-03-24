@@ -1,0 +1,48 @@
+Following is the data
+'text': 'NATIONAL PARTNERSHIP FOR QUALITY AFTERSCHOOL LEARNING', 'type': 'Line', 'page_number': 1, 'y_position': 0.7518
+'text': 'www.sedl.org/afterschool/toolkits', 'type': 'Line', 'page_number': 1, 'y_position': 0.9288
+'text': 'AFTERSCHOOL TRAINING TOOLKIT', 'type': 'Line', 'page_number': 1, 'y_position': 1.2079
+'text': 'Tutoring to Enhance Science Skills', 'type': 'Line', 'page_number': 1, 'y_position': 1.5293
+'text': 'Tutoring Two: Learning to Make Data Tables', 'type': 'Line', 'page_number': 1, 'y_position': 1.7734
+'text': 'Sample Data for Data Tables', 'type': 'Line', 'page_number': 1, 'y_position': 2.2038
+'text': 'Use these data to create data tables following the Guidelines for Making a Data Table and', 'type': 'Line', 'page_number': 1, 'y_position': 2.4983
+'text': 'Checklist for a Data Table.', 'type': 'Line', 'page_number': 1, 'y_position': 2.6816
+'text': 'Example 1: Pet Survey (GR 2–3)', 'type': 'Line', 'page_number': 1, 'y_position': 3.049
+'text': 'Ms. Hubert’s afterschool students took a survey of the 600 students at Morales Elementary', 'type': 'Line', 'page_number': 1, 'y_position': 3.2316
+ 'text': 'School. Students were asked to select their favorite pet from a list of eight animals. Here', 'type': 'Line', 'page_number': 1, 'y_position': 3.4149
+ 'text': 'are the results.', 'type': 'Line', 'page_number': 1, 'y_position': 3.599
+ 'text': 'Lizard 25, Dog 250, Cat 115, Bird 50, Guinea pig 30, Hamster 45, Fish 75,', 'type': 'Line', 'page_number': 1, 'y_position': 3.7824
+ 'text': 'Ferret 10', 'type': 'Line', 'page_number': 1, 'y_position': 3.9684
+ 'text': 'Example 2: Electromagnets—Increasing Coils (GR 3–5)', 'type': 'Line', 'page_number': 1, 'y_position': 4.3324
+ 'text': 'The following data were collected using an electromagnet with a 1.5 volt battery, a switch,', 'type': 'Line', 'page_number': 1, 'y_position': 4.5149
+ 'text': 'a piece of #20 insulated wire, and a nail. Three trials were run. Safety precautions in', 'type': 'Line', 'page_number': 1, 'y_position': 4.6983
+ 'text': 'repeating this experiment include using safety goggles or safety spectacles and avoiding', 'type': 'Line', 'page_number': 1, 'y_position': 4.8816
+ 'text': 'short circuits.', 'type': 'Line', 'page_number': 1, 'y_position': 5.0657
+ 'text': 'Number of Coils', 'type': 'Line', 'page_number': 1, 'y_position': 5.3585
+ 'text': 'Number of Paperclips', 'type': 'Line', 'page_number': 1, 'y_position': 5.3585
+ 'text': '5', 'type': 'Line', 'page_number': 1, 'y_position': 5.6165
+ 'text': '3, 5, 4', 'type': 'Line', 'page_number': 1, 'y_position': 5.6145
+ 'text': '10', 'type': 'Line', 'page_number': 1, 'y_position': 5.8672
+ 'text': '7, 8, 6', 'type': 'Line', 'page_number': 1, 'y_position': 5.867
+ 'text': '15', 'type': 'Line', 'page_number': 1, 'y_position': 6.1218
+ 'text': '11, 10, 12', 'type': 'Line', 'page_number': 1, 'y_position': 6.12
+ 'text': '20', 'type': 'Line', 'page_number': 1, 'y_position': 6.3728
+ 'text': '15, 13, 14', 'type': 'Line', 'page_number': 1, 'y_position': 6.3728
+ 'text': 'Example 3: pH of Substances (GR 5–10)', 'type': 'Line', 'page_number': 1, 'y_position': 6.7755
+ 'text': 'The following are pH values of common household substances taken by three different', 'type': 'Line', 'page_number': 1, 'y_position': 6.9588
+ 'text': 'teams using pH probes. Safety precautions in repeating this experiment include hooded', 'type': 'Line', 'page_number': 1, 'y_position': 7.1422
+ 'text': 'ventilation, chemical-splash safety goggles, gloves, and apron. Do not use bleach,', 'type': 'Line', 'page_number': 1, 'y_position': 7.3255
+ 'text': 'ammonia, or strong acids with children.', 'type': 'Line', 'page_number': 1, 'y_position': 7.5096
+ 'text': 'Lemon juice 2.4, 2.0, 2.2; Baking soda (1 Tbsp) in Water (1 cup) 8.4, 8.3, 8.7;', 'type': 'Line', 'page_number': 1, 'y_position': 7.7729
+ 'text': 'Orange juice 3.5, 4.0, 3.4; Battery acid 1.0, 0.7, 0.5; Apples 3.0, 3.2, 3.5;', 'type': 'Line', 'page_number': 1, 'y_position': 7.9563
+ 'text': 'Tomatoes 4.5, 4.2, 4.0; Bottled water 6.7, 7.0, 7.2; Milk of magnesia 10.5, 10.3,', 'type': 'Line', 'page_number': 1, 'y_position': 8.1388
+ 'text': '10.6; Liquid hand soap 9.0, 10.0, 9.5; Vinegar 2.2, 2.9, 3.0; Household bleach', 'type': 'Line', 'page_number': 1, 'y_position': 8.3229
+ 'text': '12.5, 12.5, 12.7; Milk 6.6, 6.5, 6.4; Household ammonia 11.5, 11.0, 11.5;', 'type': 'Line', 'page_number': 1, 'y_position': 8.5063
+ 'text': 'Lye 13.0, 13.5, 13.4; and Sodium hydroxide 14.0, 14.0, 13.9; Anti-freeze 10.1,', 'type': 'Line', 'page_number': 1, 'y_position': 8.6888
+ 'text': '10.9, 9.7; Windex 9.9. 10.2, 9.5; Liquid detergent 10.5, 10.0, 10.3; and', 'type': 'Line', 'page_number': 1, 'y_position': 8.8729
+ 'text': 'Cola 3.0, 2.5, 3.2', 'type': 'Line', 'page_number': 1, 'y_position': 9.0563
+ 'text': 'Teaching tip: The pH scale is from 0 to 14. Have students make two data tables, one', 'type': 'Line', 'page_number': 1, 'y_position': 9.4222
+ 'text': 'with the data as given and one with the pH scale 0 to 14 with the substances’ average', 'type': 'Line', 'page_number': 1, 'y_position': 9.6063
+ 'text': 'pH in rank order on the scale (Battery acid at the lower end and Sodium hydroxide at', 'type': 'Line', 'page_number': 1, 'y_position': 9.7896
+ 'text': 'the upper end) or create a pH graphic organizer.', 'type': 'Line', 'page_number': 1, 'y_position': 9.9896
+ 'text': '1', 'type': 'Line', 'page_number': 1, 'y_position': 10.3232

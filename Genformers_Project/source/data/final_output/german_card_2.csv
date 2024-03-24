@@ -1,0 +1,11 @@
+Entity, Value
+Language, German
+Document Type, Identification Document (possibly a German ID card or passport)
+Extracted Fields,
+- Name, Mustermann
+- First Name, Erika
+- Date of Birth, 12.08.1983
+- Nationality, Deutsch (German)
+- ID Number, 382 EUTSC
+- Expiration Date, 01-08-2031
+- Other Fields, None

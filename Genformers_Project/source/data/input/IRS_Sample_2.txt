@@ -1,0 +1,56 @@
+14 Describe the organizational action and, if applicable, the date of the action or the date against which shareholders' ownership is measured for
+the action ► Qn August 3, 2023, Sempra announced that its Board of Directors declared a 2-for-1 common stock split in the form
+f.™ 8937
+(December 2017)
+Department of the Treasury
+Internal Revenue Service
+Report of Organizational Actions
+Affecting Basis of Securities
+► See separate instructions.
+OMB No. 1545-0123
+Parti Reporting Issuer
+1 Issuer's name
+Sempra
+2 Issuer's employer identification number (EIN)
+33-0732627
+3 Name of contact for additional information
+Investor Relations
+4 Telephone No. of contact
+619-696-2901
+5 Email address of contact
+investor@sempra.com
+6 Number and street (or P.O. box if mail is not delivered to street address) of contact
+488 Sth Avenue, HQ15N2
+7 City, town, or post office, state, and ZIP code of contact
+San Diego, CA 92101-7123
+8 Date of action
+August 21, 2023
+9 Classification and description
+2-for-1 Common Stock Split
+10 CUSIP number
+_______816851109_______
+11 Serial number(s) 12 Ticker symbol
+SRE
+13 Account number(s)
+| Part II Organizational Action Attach additional statements if needed. See back of form for additional questions.
+of a 100% stock dividend. As a result of the stock split, each holder of record of Sempra's common stock at the close of business on the
+record date received one additional share of common stock for every then-held share of common stock. The record date for the stock split
+was August 14, 2023, and the new shares were distributed after the close of trading on August 21, 2023.
+Participants in Sempra's Direct Stock Purchase Plan ("DSPP") that hold fractional shares in their DSPP account were credited with a book­
+entry fractional share to the extent a fraction results from the stock split.
+15 Describe the quantitative effect of the organizational action on the basis of the security in the hands of a U.S. taxpayer as an adjustment per
+share or as a percentage of old basis ► |n accordance with Internal Revenue Code Section 307(a), each shareholder is required to allocate
+the aggregate tax basis in his or her shares held immediately prior to the stock split among the shares held immediately after the stock split.
+The stock split will decrease the basis of each share of stock issued and outstanding before the split ("Old Shares") by one-half, or 50%. To
+compute the new per share basis, the Old Share basis of each share is divided by two, and 50% is allocated to the newly issued share and
+50% remains with the Old Share. Note that where lots of shares held prior to August 21, 2023 were acquired at different times or for________
+different prices, the basis allocation should be done on a lot-by-lot basis.
+16 Describe the calculation of the change in basis and the data that supports the calculation, such as the market values of securities and the
+valuation dates ► The 2-for-1 stock split does not change the aggregate basis of the shares held by the shareholder, it merely
+allocates the Old Share basis equally between the Old Share and the newly issued share (see response to #15).
+Example:______________________________________________________________________________________________________________
+Before the 2-for-1 stock split: A stockholder holds 100 shares of common stock with a basis of $10 per share.____________________
+Total basis equals $1,000 (100 shares x $10 = $1,000).
+After the 2-for-1 stock split: A stockholder holds 200 shares of common stock with a basis of $5 per share._______________________
+Total basis equals $1,000 (200 shares x $5 = $1,000).
+For Paperwork Reduction Act Notice, see the separate Instructions. Cat. No. 37752P Form 8937 (12-2017)

@@ -1,0 +1,35 @@
+Personal Health Record
+Personal Information
+First Name Last Name Preferred Name Patent Identifier
+Martha Steel Martha ABG123
+Gender Date of Birth Blood Type Last Updated Date
+F 10/13/2021 O- 01/19/2023
+Address City Zip Code
+123 Sample Street Sample City az 12345
+Emergency Contact
+Full Name Relationship Contact Number
+Janet Stee Mother 65-6558
+Full Name Relationship Contact Number
+Susan Stoo Sister (55-6555
+Insurance Information
+Insurance Carrier Insurance Plan Contact Number
+At insurers _——_|Gomprehensive Plan {555-5555
+Policy Number Group Number Social Security Number
+123485 ns 235 8789
+Health Information
+Physician Information
+Name Designation/Speciatty Phone Address Notes
+Family Doctor 555-5555 Family Doctors
+26 Sample
+Terrace
+Dr. Ella Lee Endocrinologist 555-5555 Semple Specialist
+entre,
+123 Sample Road
+Ms. Lena Yip ENT surgeon 555-5555 Lena performed
+my thyroidectomy
+in 2021
+Known Medical Condition (s)
+Grave's disease- treated with thyroidectomy in 2021 and managed with levothyroxine
+Allergies
+Penicillin
+http://Carepatron.com wwe BPA carepatron
